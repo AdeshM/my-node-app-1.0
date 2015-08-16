@@ -1,6 +1,6 @@
 {
   "name": "my-node-app-1.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Node App 1.0.0",
   "main": "index.js",
   "scripts": {
